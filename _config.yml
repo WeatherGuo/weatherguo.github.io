@@ -26,18 +26,18 @@ author:
   pronouns         : "He/His/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Miami, FL, USA"
-  employer         : "CIMAS/University of Miami & NOAA/AOML/HRD"
+  employer         : "CIMAS/Uni Miami & NOAA/HRD"
   uri              : # URL
   email            : "guo.lin@colorado.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=eu-ujZIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4470-8882"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Guo-Lin-15"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
